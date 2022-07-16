@@ -1,1 +1,7 @@
-haluo!!!!!!!!
+<?php
+
+
+
+echo "hello world";
+
+?>
